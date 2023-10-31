@@ -55,7 +55,7 @@ button{
     min-height: 10px;
 }
 
-.header-button:hover{
+button:hover{
     background-color: black;
     transition: 0.2s;
 }
@@ -90,9 +90,14 @@ button{
 /*FOOTER*/
 footer{
     background-color: black;
+    color: #fff;
 }
 
 /*COLUMNS*/
+.col-20{
+    width: calc(100%/5);
+}
+
 .col-30{
     width: 30%;
 }
