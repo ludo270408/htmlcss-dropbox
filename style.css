@@ -83,8 +83,8 @@ button{
 }
 
 .picture-of-the-table{
-    max-width: 100px;
-    max-height: 100px;
+    max-width: 300px;
+    max-height: 300px;
 }
 
 /*FOOTER*/
@@ -98,7 +98,7 @@ footer{
 }
 
 .col-33{
-    width: calc(100%/3 - 20px);
+    width: calc(100%/3);
 }
 
 .col-40{
